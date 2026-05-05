@@ -24,7 +24,7 @@ export const issuerConfig: RouteLink[] = [
 
 export const issuerPageMeta: PageMetaMap = {
   "/app/dashboard": {
-    title: "Dashboard",
+    title: "Issuer Dashboard",
     description: "Manage your templates and certificates",
   },
   "/app/certificates": {
